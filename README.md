@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on how to utilize GitHub and Kaggle to do projects
-- 🌱 I’m currently learning web scraping, ETL, Power BI/Tableau
+- 🔭 I’m currently working on getting Google Business Intelligence and Microsoft Power BI Data Analyst Certificates
 - 👯 I’m looking to collaborate on my first project
 - ⚡ Fun fact: I'm interested at many stuffs!
